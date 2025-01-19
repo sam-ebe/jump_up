@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/VREditor/BasicMeshes/MI_Ball_02.uasset"
+			]
+		}
+	]
+}
